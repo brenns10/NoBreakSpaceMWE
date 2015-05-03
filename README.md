@@ -12,7 +12,7 @@ To build, you need Android SDK, Gradle, and to create `local.properties` with th
 Then run:
 
 ```bash
-gradle build
+./gradlew build
 ```
 
 Or just open this in Android Studio and everything should work nicely.
